@@ -16,6 +16,7 @@ These pages describe general engineering interests, not internal company product
 ## Public identity references
 
 - [LinkedIn](https://www.linkedin.com/in/palakurthirajakarthik/): Personal professional profile.
+- [GitHub](https://github.com/palakurthiraja1): Personal code profile (handle: rajakarthik).
 - [AiREX Lab at IISc](https://airexlab.cds.iisc.ac.in/alumni/): Official alumni listing.
 - [AiREX Lab team page](https://airexlab.cds.iisc.ac.in/meet-our-team/): Official lab team listing.
 - [ZenteiQ.ai](https://zenteiq.ai/): Organization website.
