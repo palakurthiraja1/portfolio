@@ -1,0 +1,80 @@
+# Raja Karthik Palakurthi — public portfolio summary
+
+Raja Karthik Palakurthi is a Research Engineer and founding member of ZenteiQ.ai. His interests include language models, AI systems, evaluation, and reliable software. Former Project Associate at AiREX Lab, IISc.
+
+Professional LinkedIn: https://www.linkedin.com/in/palakurthirajakarthik/
+Company: https://zenteiq.ai/
+IISc AiREX Lab alumni: https://airexlab.cds.iisc.ac.in/alumni/
+
+## Areas of focus
+
+### Inference and performance
+
+Engineering considerations behind responsive and dependable language-model applications.
+
+Running a language model involves a series of practical tradeoffs. Responsiveness, resource use, and reliability all matter to the experience of using it.
+I am interested in the fundamentals of inference performance and in how to reason about bottlenecks using reproducible, publicly discussable experiments.
+
+- Latency and throughput as engineering concepts
+- Measuring responsiveness under changing workloads
+- Resource efficiency and the user experience
+- Clear measurement, repeatability, and communication
+
+Details: https://rajakarthik.com/work/inference-systems/
+
+### Language model evaluation
+
+Understanding instruction following, multilingual behavior, and where model outputs fall short.
+
+A single benchmark score never tells the whole story. Evaluation also means examining consistency, instruction following, and the ways models fail on ordinary tasks.
+I am interested in test design, qualitative error analysis, and comparing model behavior across different languages and task types.
+
+- Instruction-following and response consistency
+- Multilingual evaluation principles
+- Error analysis and transparent reporting
+- Reproducibility and careful interpretation
+
+Details: https://rajakarthik.com/work/foundation-models/
+
+### Agent reliability
+
+Practical questions about tool use, recoverable workflows, and human oversight.
+
+When software can make decisions and call tools, the difficult questions often concern boundaries: what it can do, what it should ask, and how it should recover.
+I am interested in safe tool interaction, explicit state, meaningful human control, and evaluations that capture real task outcomes.
+
+- Tool selection and clear permissions
+- Recovery from errors and interruptions
+- Human review at meaningful decision points
+- Testing behavior across longer interactions
+
+Details: https://rajakarthik.com/work/agent-runtimes/
+
+### Context and retrieval
+
+How assistants find relevant information without losing provenance or user control.
+
+More context does not automatically make an answer better. The challenge is selecting relevant information, interpreting it carefully, and knowing when uncertainty remains.
+My interests include information retrieval, source attribution, changing information, and evaluating whether retrieved context actually helps.
+
+- Relevance and source attribution
+- Handling stale or conflicting information
+- Precision versus completeness in retrieval
+- User control and sensible uncertainty
+
+Details: https://rajakarthik.com/work/memory-retrieval/
+
+### Reliable AI services
+
+Software engineering principles for clear, observable, and maintainable AI applications.
+
+A useful AI application is more than the model behind it. Clear interfaces, predictable behavior, and careful failure handling make the difference for the people using it.
+I am interested in the software engineering principles that make AI-backed services easier to test, operate, and improve.
+
+- Clear interfaces and error handling
+- Observability as a general engineering practice
+- Performance and reliability tradeoffs
+- Maintainable software and testing discipline
+
+Details: https://rajakarthik.com/work/api-platform/
+

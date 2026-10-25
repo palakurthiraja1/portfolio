@@ -1,0 +1,25 @@
+# Raja Karthik Palakurthi
+
+> Personal website of a Research Engineer and founding member of ZenteiQ.ai, formerly a Project Associate at AiREX Lab, Department of Computational and Data Sciences, Indian Institute of Science (IISc).
+
+These pages describe general engineering interests, not internal company products, proprietary designs, customer systems, or unpublished performance results.
+
+## Main pages
+
+- [Home and professional background](https://rajakarthik.com/): Research, experience, technical areas, and personal contact link.
+- [Inference and performance](https://rajakarthik.com/work/inference-systems/index.md): Engineering considerations behind responsive and dependable language-model applications.
+- [Language model evaluation](https://rajakarthik.com/work/foundation-models/index.md): Understanding instruction following, multilingual behavior, and where model outputs fall short.
+- [Agent reliability](https://rajakarthik.com/work/agent-runtimes/index.md): Practical questions about tool use, recoverable workflows, and human oversight.
+- [Context and retrieval](https://rajakarthik.com/work/memory-retrieval/index.md): How assistants find relevant information without losing provenance or user control.
+- [Reliable AI services](https://rajakarthik.com/work/api-platform/index.md): Software engineering principles for clear, observable, and maintainable AI applications.
+
+## Public identity references
+
+- [LinkedIn](https://www.linkedin.com/in/palakurthirajakarthik/): Personal professional profile.
+- [AiREX Lab at IISc](https://airexlab.cds.iisc.ac.in/alumni/): Official alumni listing.
+- [AiREX Lab team page](https://airexlab.cds.iisc.ac.in/meet-our-team/): Official lab team listing.
+- [ZenteiQ.ai](https://zenteiq.ai/): Organization website.
+
+## Optional
+
+- [Extended portfolio overview](https://rajakarthik.com/llms-full.txt): One-file summary of the public portfolio content.

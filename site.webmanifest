@@ -1,0 +1,29 @@
+{
+  "name": "Raja Karthik Palakurthi | Research Engineer and ZenteiQ.ai founding member",
+  "short_name": "Raja Karthik",
+  "description": "Research Engineer and founding member of ZenteiQ.ai; former Project Associate at AiREX Lab, IISc.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0e10",
+  "theme_color": "#0a0e10",
+  "icons": [
+    {
+      "src": "/assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
